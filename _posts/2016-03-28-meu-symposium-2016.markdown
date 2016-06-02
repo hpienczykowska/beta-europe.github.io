@@ -4,7 +4,7 @@ layout: post
 modified:
 categories:
 excerpt: "The MEU Symposium 2016 will take place May 12th to 15th in Belgrade, Serbia."
-tags: 
+tags:
   - MEU Symposium
 image:
   feature: beta-assembly-2015.jpg
@@ -24,20 +24,24 @@ The MEU Symposium is a forum for organisers of MEU conferences and those who wis
 
 #### Purpose of the event
 
-The MEU Symposium will bring together representatives of the numerous Model 
-European Union conferences currently being organised across Europe, as well as 
-participants interested in setting up an MEU conference of their own. The 
+The MEU Symposium will bring together representatives of the numerous Model
+European Union conferences currently being organised across Europe, as well as
+participants interested in setting up an MEU conference of their own. The
 Symposium will thus serve two purposes:
 
-For **experienced MEU organisers** the goal is to discuss the development of the 
-MEU network in order to ensure qualitative and structural coherence and 
-consistency between MEU conferences, to jointly develop the “brand” MEU and to 
+For **experienced MEU organisers** the goal is to discuss the development of the
+MEU network in order to ensure qualitative and structural coherence and
+consistency between MEU conferences, to jointly develop the “brand” MEU and to
 share best practices and experiences between one another.
 
-For those **new to the organisation of an MEU** wishing to join an organizing 
-team or to set up an MEU conference of their own the purpose is to learn about 
-the fundamental aspects and principles of MEU conferences, organisational and 
-legal first steps of founding an association, team recruitment, team management 
-and volunteer leadership, successful public relations and fundraising work and 
-how to contribute to the political education of young Europeans through hosting 
+For those **new to the organisation of an MEU** wishing to join an organizing
+team or to set up an MEU conference of their own the purpose is to learn about
+the fundamental aspects and principles of MEU conferences, organisational and
+legal first steps of founding an association, team recruitment, team management
+and volunteer leadership, successful public relations and fundraising work and
+how to contribute to the political education of young Europeans through hosting
 simulations of the European institutions.
+
+The participants will be accommodated in the *Modern Hostel Belgrade*, which is less than 200m away from the main square (Republic Square). It is a new and very nicely furnished hostel. The breakfast will be organised in the cafe-restaurant below. The hostel has free WiFi.
+
+The sessions will be held at the *Faculty of Diplomacy and Security*, one of the most prominent institutions for education in international relations and international security. It is situated in the charming hip district of Savamala, close to the very bustling cultural scene.
