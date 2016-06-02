@@ -37,7 +37,7 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      
+
       <table>
           <thead>
               <tr>
@@ -51,7 +51,7 @@
                   </td>
                   <td>{{ page.title }}</td>
               </tr>
-              {% if page.partner-slug %}              
+              {% if page.partner-slug %}
               {% assign partner = site.partners | where: 'slug', page.partner-slug  | first %}
               <tr>
                   <td><strong>Hosting Organisation</strong>
@@ -69,6 +69,13 @@
                   </td>
                   <td><a href="{{page.website}}">{{page.website}}</a></td>
               </tr>
+              {% if page.twitter %}
+              <tr>
+                  <td><strong>Twitter</strong>
+                  </td>
+                  <td><a href="https://twitter.com/{{page.twitter}}/">@{{ page.twitter }}</a></td>
+              </tr>
+              {% endif %}
               {% if page.begin %}
               <tr>
                   <td><strong>Date</strong>
@@ -88,15 +95,15 @@
               </tr>
           </tbody>
       </table>
-      
+
       <div id="mapid" style="height: 220px"></div>
-      
+
       {% if page.share != false %}
         <hr />
         {% include _social-share.html %}
       {% endif %}
       {% if page.source != false %}
-        <hr />        
+        <hr />
         {% include _edit_github.html %}
       {% endif %}
     </div><!-- /.article-wrap -->
