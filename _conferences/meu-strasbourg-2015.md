@@ -5,6 +5,7 @@ partner-slug: beta-europe
 conference: meu-strasbourg
 mail: contact@meu-strasbourg.org
 website: http://www.meu-strasbourg.org/
+twitter: ModelEU
 year: 2015
 begin: 2015-04-11
 end: 2015-04-18

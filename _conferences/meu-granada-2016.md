@@ -5,6 +5,7 @@ partner-slug:
 conference: meu-granada
 mail: spain.beta@gmail.com
 website: http://meugranada.org
+twitter: MEU_Granada
 year: 2016
 begin: 2016-10-19
 end: 2016-10-23
