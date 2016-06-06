@@ -1,7 +1,7 @@
 ---
 slug: meu-granada-2016
 title: MEU Granada 2016
-partner-slug:
+partner-slug: beta-espana
 conference: meu-granada
 mail: spain.beta@gmail.com
 website: http://meugranada.org
