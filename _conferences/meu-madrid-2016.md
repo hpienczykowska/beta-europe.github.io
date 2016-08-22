@@ -4,11 +4,11 @@ title: MEU Madrid 2016
 partner-slug:
 conference: meu-madrid
 mail: ​meu@jefmadrid.eu​
-website: http://meu-madrid.wix.com/uc3m
+website: http://meu-madrid.wixsite.com/home
 twitter: MEUMadrid
 year: 2016
-begin: 2016-04-11
-end: 2016-04-16
+begin: 2016-09-19
+end: 2016-09-24
 participants:
 town: Madrid
 country: Spain
