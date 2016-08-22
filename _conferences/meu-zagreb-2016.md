@@ -1,6 +1,6 @@
 ---
 slug: meu-zagreb-2016
-title: MEU zagreb 2016
+title: MEU Zagreb 2016
 partner-slug:
 conference: meu-zagreb
 mail: ​meu@jefmadrid.eu​
