@@ -12,8 +12,8 @@ end: 2016-10-07
 participants: 80
 town: Zagreb
 country: Croatia
-location: University Carlos III of Madrid
-geo: 40.315848,-3.726671
+location:
+geo: 45.8401104,15.824247
 excerpt: prostitution and online sex industry
 ---
 
