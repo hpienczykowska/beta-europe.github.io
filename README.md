@@ -1,3 +1,35 @@
+# Website Development
+
+## Install Jekyll
+
+Jekyll is a static website generator based on ruby. Install ruby first.
+
+```sh
+gem install jekyll
+```
+
+## Download the Website from Github
+
+```sh
+git clone https://github.com/beta-europe/beta-europe.github.io.git www.beta-europe.org
+```
+
+## Start Development Server
+
+```sh
+jekyll s --config _config.yml,_config_dev.yml
+```
+
+If the default port of the development server changes, the file `_config_dev.yml` has to be updated.
+
+Once the development server is running, go to <http://127.0.0.1:4000/>
+
+## Modifying the Website (as a developer)
+
+You can alter the code, commit and push to the master branch. Github will generate the website and publish it immediately if there have not been errors. On success/error, a Github Notification is generated.
+
+Authors of the blog can edit and add entries/texts directly using the Github website. A small link is provided on the bottom of every page that reads *Edit*. A moderation can be configured using push requests instead to provide direct access to the master branch.
+
 # Minimal Mistakes
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog built. Compatible with Jekyll 3.0 and up.
