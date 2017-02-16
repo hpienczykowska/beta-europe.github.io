@@ -4,7 +4,7 @@
 -partner-slug: lau-meu
 -conference: lau-meu
 -mail: info@laumeu.org
--website: https://www.facebook.com/LAUModelEU/?fref=ts
+-website: http://www.laumeu.org/
 -year: 2017
 -begin: 18.02.2017
 -end: 19.02.2017
