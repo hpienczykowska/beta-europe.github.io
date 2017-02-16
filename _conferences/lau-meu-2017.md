@@ -1,0 +1,17 @@
+----
+-slug: lau-meu-2017
+-title: LAU MEU 2017
+-partner-slug: lau-meu
+-conference: lau-meu
+-mail: info@laumeu.org
+-website: https://www.facebook.com/LAUModelEU/?fref=ts
+-year: 2017
+-begin: 18.02.2017
+-end: 19.02.2017
+-participants:
+-town: 
+-country: Lebanon
+-location: 
+-geo: 
+-excerpt: 
+----
