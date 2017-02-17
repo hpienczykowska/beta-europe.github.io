@@ -12,6 +12,6 @@ participants:
 town:
 country: Lebanon
 location: Byblos
-geo: 34.11597,35.65186?z=17
+geo: 34.11597,35.65186
 excerpt:
 ---
