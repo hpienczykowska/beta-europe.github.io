@@ -12,6 +12,6 @@ participants:
 town: Mainz
 country: Germany
 location:
-geo:
+geo: 50.0002,8.0997
 excerpt:
 ---
