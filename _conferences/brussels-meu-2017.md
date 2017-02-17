@@ -12,6 +12,6 @@ participants:
 town: Brussels
 country: Belgium
 location:
-geo:
+geo: 50.8471,4.1803
 excerpt:
 ---
