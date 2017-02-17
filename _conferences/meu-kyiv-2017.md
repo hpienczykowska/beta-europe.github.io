@@ -12,6 +12,6 @@ participants:
 town: Kyiv
 country: Ukraine
 location:
-geo:
+geo: 50.4509,30.5241
 excerpt:
 ---
