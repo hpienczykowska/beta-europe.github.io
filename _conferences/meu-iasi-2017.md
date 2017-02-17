@@ -1,6 +1,6 @@
 ---
-slug: iasi-meu-2017
-title: Iasi MEU 2017
+slug: meu-iasi-2017
+title: MEU Iasi 2017
 partner-slug: 
 conference: iasi-meu
 mail: asd.uaic@gmail.com
