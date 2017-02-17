@@ -12,6 +12,6 @@ participants:
 town: Zagreb
 country: Croatia
 location:
-geo:
+geo: 45.8401104,15.824247
 excerpt:
 ---
