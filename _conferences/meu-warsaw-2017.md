@@ -12,6 +12,6 @@ participants:
 town: Warsaw
 country: Poland
 location:
-geo:
+geo: 52.2333,20.8891
 excerpt:
 ---
