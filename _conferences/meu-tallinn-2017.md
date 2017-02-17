@@ -1,8 +1,8 @@
 ---
 slug: meu-tallinn-2017
 title: MEU Tallinn 2017
-partner-slug: 
-conference: tallinn-meu
+partner-slug: euroopa-maja
+conference: tallin-meu
 mail:
 website: https://www.facebook.com/meutallinn/?fref=ts
 year: 2017
