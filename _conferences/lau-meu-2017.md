@@ -4,14 +4,14 @@ title: LAU MEU 2017
 partner-slug: 
 conference: lau-meu
 mail: info@laumeu.org
-website: http://www.laumeu.org/
+website: https://www.facebook.com/LAUModelEU/?fref=ts
 year: 2017
 begin: 2017-02-18
 end: 2017-02-19
 participants:
 town:
-country:
-location:
-geo:
+country: Lebanon
+location: Byblos
+geo: geo:34.11597,35.65186?z=17
 excerpt:
 ---
