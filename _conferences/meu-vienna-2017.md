@@ -12,6 +12,6 @@ participants:
 town: Vienna
 country: Austria
 location:
-geo:
+geo: 48.2392831,16.3773241
 excerpt:
 ---
