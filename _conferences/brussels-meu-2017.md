@@ -1,7 +1,7 @@
 ---
 slug: brussels-meu-2017
 title: Brussels MEU 2017
-partner-slug: brussels-meu
+partner-slug:
 conference: brussels-meu
 mail:
 website: https://www.facebook.com/BrusselsMEU/?fref=ts
