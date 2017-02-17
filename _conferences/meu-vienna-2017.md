@@ -1,8 +1,8 @@
 ---
-slug: vienna-meu-2017
-title: Vienna MEU 2017
+slug: meu-vienna-2017
+title: MEU Vienna 2017
 partner-slug: 
-conference: vienna-meu
+conference: meu-vienna
 mail: 
 website: http://www.meu-vienna.at/
 year: 2017
