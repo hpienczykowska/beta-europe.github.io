@@ -12,6 +12,6 @@ participants:
 town: Iasi
 country: Hungary
 location:
-geo:
+geo: 47.1622,27.4123
 excerpt:
 ---
