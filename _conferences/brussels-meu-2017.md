@@ -5,7 +5,7 @@ partner-slug:
 conference: brussels-meu
 mail:
 website: https://www.facebook.com/BrusselsMEU/?fref=ts
-year: 2017
+year: 2017 test
 begin: 2017-05-01
 end: 2017-05-06
 participants:
