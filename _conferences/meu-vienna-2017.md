@@ -4,7 +4,7 @@ title: MEU Vienna 2017
 partner-slug: 
 conference: meu-vienna
 mail: 
-website: http://www.meu-vienna.at/
+website: https://www.facebook.com/MEUVienna/?fref=ts
 year: 2017
 begin: 2017-02-23
 end: 2017-02-26
