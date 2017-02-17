@@ -5,7 +5,7 @@ partner-slug: euroopa-maja
 conference: tallin-meu
 mail:
 website: https://www.facebook.com/meutallinn/?fref=ts
-year: 2017 Click on a conference for more information
+year: 2017
 begin: 2017-07-22
 end: 2017-07-29
 participants:
