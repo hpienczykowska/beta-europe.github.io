@@ -12,6 +12,6 @@ participants:
 town: Strasbourg
 country: Germany
 location:
-geo:
+geo: 48.59746,7.76780
 excerpt:
 ---
