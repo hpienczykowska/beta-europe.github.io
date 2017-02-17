@@ -12,6 +12,6 @@ participants:
 town: Tallinn
 country: Estonia
 location:
-geo:
+geo: 59.4718,24.6526
 excerpt:
 ---
