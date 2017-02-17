@@ -12,6 +12,6 @@ participants:
 town: Sofia
 country: Bulgaria
 location:
-geo:
+geo: 42.6979,23.3226
 excerpt:
 ---
