@@ -12,6 +12,6 @@ participants:
 town:
 country: Kosovo
 location:
-geo:
+geo: 42.6648,21.1638
 excerpt:
 ---
