@@ -6,8 +6,8 @@ conference: kyiv-meu
 mail:
 website: https://www.facebook.com/meukyiv/?fref=ts&ref=br_tf&qsefr=1
 year: 2017
-begin: 2017-03-18
-end: 2017-03-26
+begin: 2017-03-29
+end: 2017-04-01
 participants:
 town: Kyiv
 country: Ukraine
