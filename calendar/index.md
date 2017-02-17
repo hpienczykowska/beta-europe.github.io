@@ -13,4 +13,4 @@ To ensure you never miss a Model EU event, please subscribe to our [RSS feed]({{
 to follow our news and consider our comprehensive Model EU Calendar on this very site
 that we plan to updated progressively.
 
-[b]Click on a conference for more information[/b]
+Click on a conference for more information
