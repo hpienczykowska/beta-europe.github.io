@@ -1,6 +1,6 @@
 ---
 slug: lau-meu-2017
-title: LAU MEU 201
+title: LAU MEU 2017
 partner-slug: 
 conference: lau-meu
 mail: info@laumeu.org
