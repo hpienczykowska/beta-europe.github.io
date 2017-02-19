@@ -1,7 +1,7 @@
 ---
 slug: meu-kyiv-2017
 title: MEU Kyiv 2017
-partner-slug: 
+partner-slug: beta-ukraine
 conference: kyiv-meu
 mail:
 website: https://www.facebook.com/meukyiv/?fref=ts&ref=br_tf&qsefr=1
