@@ -1,7 +1,7 @@
 ---
 slug: meu-warsaw-2017
 title: MEU Warsaw 2017
-partner-slug: 
+partner-slug: beta-poland
 conference: warsaw-meu
 mail:
 website: https://www.facebook.com/meuwarsaw/?fref=ts
