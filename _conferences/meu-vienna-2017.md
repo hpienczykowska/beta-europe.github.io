@@ -1,7 +1,7 @@
 ---
 slug: meu-vienna-2017
 title: MEU Vienna 2017
-partner-slug: 
+partner-slug: model-european-union-vienna
 conference: meu-vienna
 mail: 
 website: https://www.facebook.com/MEUVienna/?fref=ts
