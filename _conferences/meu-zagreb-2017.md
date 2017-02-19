@@ -1,7 +1,7 @@
 ---
 slug: meu-zagreb-2017
 title: MEU Zagreb 2017
-partner-slug: 
+partner-slug: hermes
 conference: zagreb-meu
 mail:
 website: https://www.facebook.com/modeleuropeanunionzagreb/?fref=ts
