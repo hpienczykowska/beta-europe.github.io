@@ -6,8 +6,8 @@ conference: warsaw-meu
 mail:
 website: https://www.facebook.com/meuwarsaw/?fref=ts
 year: 2017
-begin: 2017-03-18
-end: 2017-03-25
+begin: 2017-08-30
+end: 2017-08-31
 participants:
 town: Warsaw
 country: Poland
