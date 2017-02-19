@@ -1,7 +1,7 @@
 ---
 slug: meu-strasbourg-2017
 title: MEU Strasbourg 2017
-partner-slug: beta-france
+partner-slug:
 conference: lau-meu
 mail:
 website: https://www.facebook.com/meustrasbourg/?fref=ts
