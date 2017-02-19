@@ -1,7 +1,7 @@
 ---
 slug: meu-sofia-2017
 title: MEU Sofia 2017
-partner-slug: 
+partner-slug: beta-bulgaria
 conference: sofia-meu
 mail:
 website: https://www.facebook.com/MEUSofia/
