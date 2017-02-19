@@ -1,7 +1,7 @@
 ---
 slug: meu-mainz-2017
 title: MEU Mainz 2017
-partner-slug: beta-france
+partner-slug: aegee-mainz
 conference: mainz-meu
 mail:
 website: https://www.facebook.com/meumainz/?fref=ts
