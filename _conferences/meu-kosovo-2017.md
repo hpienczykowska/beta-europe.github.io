@@ -1,7 +1,7 @@
 ---
 slug: meu-kosovo-2017
 title: MEU Kosovo 2017
-partner-slug: 
+partner-slug: institute-ichat
 conference: kosovo-meu
 mail:
 website: https://www.facebook.com/meu.kosovo/?fref=ts
