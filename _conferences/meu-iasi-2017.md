@@ -10,7 +10,7 @@ begin: 2017-02-24
 end: 2017-02-26
 participants:
 town: Iasi
-country: Hungary
+country: Romania
 location:
 geo: 47.1622,27.4123
 excerpt:
